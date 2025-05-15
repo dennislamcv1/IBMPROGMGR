@@ -1,5 +1,5 @@
 # IBMPROGMGR
-## IBM Program Manager Professional Certificate (6 course series)
+## IBM Program Manager Professional Certificate (7 course series)
 
 The average salary for a Program Manager (PM) in the U.S. is $120,000 (Glassdoor). Whether you're aspiring to your first PM role or seeking formal certification as a PM, this Professional Certificate program is ideal for those looking to develop the job-ready skills needed for success in this field.
 
